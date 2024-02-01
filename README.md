@@ -1,7 +1,7 @@
 # test_markdown
 
 
-[Перейти к Заголовку 1](#what-is-this?)
+[What is this?](#what-is-this?)
 [Перейти к Заголовку 2](#title2)
 
 What is this?
